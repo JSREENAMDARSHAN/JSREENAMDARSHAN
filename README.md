@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="<i class="fi fi-brands-mysql"></i>" height="30" alt="java logo"  />
+  <a href="https://cdnlogo.com/logo/mysql_9525.html"><img src="https://www.cdnlogo.com/logos/m/10/mysql.svg"></a>
 </div>
 
 ###
