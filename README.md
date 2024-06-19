@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3DSQL&psig=AOvVaw0o2vyh0d2_HBieMW0X5KFo&ust=1718867638028000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj1x4mP54YDFQAAAAAdAAAAABAE" height="30" alt="java logo"  />
+  <img src="<i class="fi fi-brands-mysql"></i>" height="30" alt="java logo"  />
 </div>
 
 ###
