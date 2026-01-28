@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is sreenam darshan, and I'm enthusiastic about software development. I have always been passionate about Python and web development. Over the years, I've gained valuable experience by Solving 150+ leetcode problems and more in codechef. I also completed my certification in salesforce developer and python with microsoft and cisco. I also completed the Wipro <br>. <br>Apart from my professional pursuits, I am an avid of better communication skills and people skills. I find interests in sports, coding and web surfing. I am constantly seeking new ways to improve and learn, both personally and professionally.<br><br> I'm looking forward to connecting with like-minded individuals and contributing my skills to make a positive impact.<br><br>Thank you for taking the time to learn a bit about me. I'm eager to engage in meaningful conversations and collaborate on exciting projects together.</h2>
+<h2 align="left">Hi 👋! My name is Jawalkar Sreenam Darshan. I’m from Andhra Pradesh and currently working at the Chennai office of Cognizant as a Programmer Analyst, with over 1.3 years of experience in the Quality Engineering and Assurance domain.
+ 
+From a technical standpoint, I’m proficient in Java, JavaScript, and SQL, and I also have experience with frontend technologies such as HTML, CSS, and React. In my current role, I primarily work on Java–Selenium based automation frameworks, where I focus on building reusable utilities, improving test stability, and reducing manual testing efforts. I regularly use tools like Git and GitHub for version control.
+ 
+Recently, I worked on the Ford Mo-ISIS SV2 Migration project, where I enhanced automation coverage for critical regression flows, implemented data-driven testing, and ensured system stability across multiple environments after migration.
+ 
+I’ve been recognized as a Top Performer on the Ford project and have also received Cheer Points awards from Cognizant for my contributions.</h2>
 
 ###
 
