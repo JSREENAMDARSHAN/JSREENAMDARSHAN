@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jawalkar Sreenam Darshan. I’m from Andhra Pradesh and currently working at the Chennai office of Cognizant as a Programmer Analyst, with over 1.3 years of experience in the Quality Engineering and Assurance domain.
+<h2 align="left">Hi 👋! My name is Jawalkar Sreenam Darshan. I’m from Andhra Pradesh and currently working at the Chennai office of Cognizant as a Programmer Analyst, with over 1.8 years of experience in the Quality Engineering and Assurance domain.
  
 From a technical standpoint, I’m proficient in Java, JavaScript, and SQL, and I also have experience with frontend technologies such as HTML, CSS, and React. In my current role, I primarily work on Java–Selenium based automation frameworks, where I focus on building reusable utilities, improving test stability, and reducing manual testing efforts. I regularly use tools like Git and GitHub for version control.
  
