@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="JSREENAMDARSHAN's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Backend+Software+Engineer;Specialized+in+Java,+Spring+Boot+&+Distributed+Systems;Building+Scalable+High-Throughput+Microservices" alt="Typing SVG" />
 </p>
@@ -12,7 +6,7 @@
 
 ## ⚡ About Me
 
-- 💻 Software Engineer with **1.8+ years** of professional enterprise experience.
+- 💻 Software Engineer with **1.8+ years** of professional enterprise experience at **Cognizant**.
 - ⚙️ Specialized in building scalable microservices, low-latency REST APIs, and robust distributed data architectures.
 - 🚀 Passionate about concurrency, multithreading, query optimization, and production-grade backend engineering.
 
