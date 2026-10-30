@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="JSREENAMDARSHAN's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="left">Hi 👋, I'm Jawalkar Sreenam Darshan</h1>
 
 <h3 align="left">
@@ -257,3 +263,4 @@ applications, cloud infrastructure and production-grade software.
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="JSREENAMDARSHAN's GitHub profile" src="dark_mode.svg" />
 </picture>
+
