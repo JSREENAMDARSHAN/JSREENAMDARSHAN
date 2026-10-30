@@ -1,68 +1,164 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1125" height="526.4" viewBox="0 0 1125 526.4" role="img" aria-label="ASCII GitHub profile card for JSREENAMDARSHAN">
-  <rect x="0.5" y="0.5" width="1124" height="525.4" rx="8" fill="#0d1117" stroke="#30363d"/>
-  <text x="28" y="34.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                               .  ___.</text>
-  <text x="28" y="44.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                       _.. _jvqoxjxoxx__</text>
-  <text x="28" y="53.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                     _::!!==lj:::'::::!-[1ujjj/</text>
-  <text x="28" y="63.400000000000006" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               \xxuuz!:::  :::  :  ::::: ::j:!(=j:_</text>
-  <text x="28" y="73" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                            ___]::++ :::   :       :::    ::!:: in;:</text>
-  <text x="28" y="82.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                           .j::: ::::      ::: :::          :   :::!!jj:.</text>
-  <text x="28" y="92.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                        __j:    :      : ::   :        :  :  :  :  :::=jj:</text>
-  <text x="28" y="101.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                      .:::     :          :         ::       ::::: ::   :i.</text>
-  <text x="28" y="111.39999999999999" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                      :'  :       ::           :     :     ::   :     :  :|x:</text>
-  <text x="28" y="121" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                    _!    :     ::::        :      :: :   : ::  ::    : ::::|/</text>
-  <text x="28" y="130.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   |`:        ::::         :    :  :    ::        :   : ::  !j</text>
-  <text x="28" y="140.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                  |;: ::     : :      :        :                     :    ::_i|</text>
-  <text x="28" y="149.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   !:                                :::       :    :    : :|j`</text>
-  <text x="28" y="159.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   |:                    .::::jj:j__jjxuj;_.::::::     : :::j`</text>
-  <text x="28" y="169" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                    j;:             ::::|xxxxxxxxxoxooooooxxxxxxxj::      :|`</text>
-  <text x="28" y="178.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                    |;`         :::j:|jxxxxxxxxxooooooooooooooooxxj::   :::|</text>
-  <text x="28" y="188.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                     c:       :jjjjjxxxxoooooooooooooooooooooooooxxj:   : :)</text>
-  <text x="28" y="197.79999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                     'j       :jjjxxxxxooooooooooooooooooooooooooxxx;:  ::i|</text>
-  <text x="28" y="207.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                      |:     :jjjxxxxxxxooooooooooooooowenooovvnxxxxx|   :j|</text>
-  <text x="28" y="217" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                       |:    jjjj:j::::::!=jxxooooowxj:::::::jjjjjxxxx: _jx</text>
-  <text x="28" y="226.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                       !:    jj::jj:::::::::jjxoooxxjj::::|:;::jjxxxox| jxx</text>
-  <text x="28" y="236.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                        c:  |jjjjj:::_:::u;j::jxoooxjjjjx;_jwjjjxxooox|:ixp</text>
-  <text x="28" y="245.79999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                        jj::'jxxxjj:jjjjjxxjj:jxoooxxxxjjjxxxxxxoooooxcioo|</text>
-  <text x="28" y="255.39999999999998" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                        !jj::jxxxxxxjjxxxxxxjjxoooooooooooooooooooooox:xx\</text>
-  <text x="28" y="265" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                         /j::jxxxxoxxxoooxxxxxxooooooooooooooooooooooxjx}</text>
-  <text x="28" y="274.6" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                          -j:ixxxxoooooooooxxxxoooooooooooo@o@oooooooxuo|</text>
-  <text x="28" y="284.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                           !j|xxxxoooooooooxxxxoo@ooooooooooooooooooxxo|</text>
-  <text x="28" y="293.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                            jjjxxxxoooooooxxxvxxoooooxoooooooooooooxxi&quot;`</text>
-  <text x="28" y="303.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                            !jjjxxxxooooooxxxjjjxxxooooooooooooooooxj|</text>
-  <text x="28" y="313" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               jjjxxxxooxxxxxjjxxxxxxxaooooooooooxxjj`</text>
-  <text x="28" y="322.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               !jjjxxxxxjjjjj|xxooooxxxxjjjxooooxxjj|</text>
-  <text x="28" y="332.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                !jjjxxxjjjjjjjjjxxxxxxxxxjjjxoxxxjj)</text>
-  <text x="28" y="341.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 !:jjxxj|xxxxxxxoooooooooxxxxxxxj=|`</text>
-  <text x="28" y="351.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                  ::jjjjxxxxxxxxxxxxxxooooxxjjjj!ix|</text>
-  <text x="28" y="361" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 :i:::::jjxxxxxxxjxxxxooxxxjj::_uxxp:.</text>
-  <text x="28" y="370.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               .` ojj:::::jjjxxxxxjjjjxxxjj::_jxooo@:!:.</text>
-  <text x="28" y="380.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                             ::   @|jjj:::::jjjjjxjjjjjjj::_jxoooog@|::::.</text>
-  <text x="28" y="389.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                        .. !     |o@pjjjjj::::::jj:::::::_xxooooog@@|:::::!._.</text>
-  <text x="28" y="399.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                   . ::  : : :   !o@@/jjjjjjjjj:::__|jjxxxoooooog@@@::: : ::::::`_.</text>
-  <text x="28" y="409" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">             .. :: :   : :  :  : :o@@@@gjjjjjjjjjjxxxxxxxooooog@@@@|::::::: : ::::::::._.</text>
-  <text x="28" y="418.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">       ..::::: : :  :  : : : :  ::|@@@@@@gxxxxxxxxxxxxoooooxg@@@@@@|::: : ::::  : : ::::::::._.</text>
-  <text x="28" y="428.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8"> ..::::: : :  : : : : :: :: : : : |o@@@@@@@gxxxxxxxxooooxxg@@@@@@@|::::::::::::: ::: : ::::::::::::.</text>
-  <text x="28" y="437.8" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">::: : : : : : : : :  :::: : :: : :|o@@@@@@@@@gxxxxxxxxxxg@@@@@@@@@|:::: : ::::::: ::: :: : :: ::::::</text>
-  <text x="28" y="447.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">  : : : : : : : : : ::: :::: : : ::o@@@@@@@@@@@@gxxxxgg@@@@@@@@@@@|::::::::::::::: :::: ::: :: : : :</text>
-  <text x="28" y="457" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">: : : :: ::: : : :  :::::: : : : ::|@@@@@@@@@@@UwUUUVX@@@@@@@@@@@o::::::::: ::::: : : :: :::::::::::</text>
-  <text x="28" y="466.59999999999997" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">:: : : :: : : : : :     : : : : : :|@@@@@@@@\\::::::::://@@@@@@@@|::::::::::::   : ::: :: : :::::: :</text>
-  <text x="28" y="476.2" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">: ::::: :: : ::: : :: : : : : : :::|@@@@@@@I.::::::::::::iQ@@@@@@|::::::::::  ::::: ::: ::::: ::::::</text>
-  <text x="28" y="485.79999999999995" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">:: :: :: :::: : : : :::: : : : : :::a@@@@@ogo/: :::::::.\ggo@@@@|:::::::::::::: : :: ::: : :::::::::</text>
-  <text x="28" y="495.4" fill="#c9d1d9" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">:::::: :: : :::: :::: ::::: : : : ::qo@@@@@@@og. :::: _g@@@@@@@@|::::::::::::::::::: : :::::::::::::</text>
-  <text x="540" y="88.19999999999999" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> JSREENAMDARSHAN@github </tspan><tspan fill="#3d444d">─────────────────────────────────</tspan></text>
-  <text x="540" y="108.19999999999999" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> 4 years, 9 months, 25 days</tspan></text>
-  <text x="540" y="128.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">.....................................</tspan><tspan fill="#c9d1d9"> Chennai</tspan></text>
-  <text x="540" y="148.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Company: </tspan><tspan fill="#484f58">....................................</tspan><tspan fill="#c9d1d9"> Cognizant</tspan></text>
-  <text x="540" y="168.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Languages: </tspan><tspan fill="#484f58">.....</tspan><tspan fill="#c9d1d9"> Jupyter Notebook 69%, Java 13%, CSS 9%</tspan></text>
-  <text x="540" y="208.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">────────────────────────────────────────────────</tspan></text>
-  <text x="540" y="228.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> github.com/JSREENAMDARSHAN</tspan></text>
-  <text x="540" y="268.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
-  <text x="540" y="288.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 14</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="308.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Forks: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 0</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="328.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 50</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Contributed: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="348.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. PRs: </tspan><tspan fill="#484f58">.................</tspan><tspan fill="#79c0ff"> 0</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Issues: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="368.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Top repo: </tspan><tspan fill="#484f58">.......................</tspan><tspan fill="#c9d1d9"> taskmanager_api (0 ★)</tspan></text>
-  <text x="540" y="408.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Last 12 Months </tspan><tspan fill="#3d444d">─────────────────────────────────────────</tspan></text>
-  <text x="540" y="428.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#ffa657">. Contributions: </tspan><tspan fill="#484f58">......</tspan><tspan fill="#79c0ff"> 41</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Reviews: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 0</tspan></text>
-  <text x="540" y="448.2" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="16"><tspan fill="#39d353">              ▅▅█▄▄   ▅▄▅            ▅▅▃    ▆ ▃       </tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Dark-mode developer profile card">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#010d1d"/>
+      <stop offset="1" stop-color="#020b14"/>
+    </linearGradient>
+    <linearGradient id="lcd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#dfe7f2"/>
+      <stop offset="1" stop-color="#b9c7d8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="0.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+
+  <g opacity="0.18" stroke="#7ca6c9" stroke-width="1">
+    <path d="M0 60H1600"/>
+    <path d="M0 180H1600"/>
+    <path d="M0 300H1600"/>
+    <path d="M0 420H1600"/>
+    <path d="M0 540H1600"/>
+    <path d="M0 660H1600"/>
+    <path d="M0 780H1600"/>
+    <path d="M0 900H1600"/>
+  </g>
+
+  <g transform="translate(0,20)" opacity="0.96">
+    <g font-family="Consolas, 'Courier New', monospace" font-size="8" fill="#edf3fb">
+      <text x="20" y="30">...........................................................................................</text>
+      <text x="20" y="46">..::::::..::::::.:::::::............................................................</text>
+      <text x="20" y="62">....:::::....::::::.....::::::::::::::::.............................................</text>
+      <text x="20" y="78">..............:......::..::...:...::..............................................</text>
+      <text x="20" y="94">............:::....:....::::::..:...::...........................................</text>
+      <text x="20" y="110">......::::......:::......:::::....:::.............................................</text>
+      <text x="20" y="126">....:....::::::....::::::............::::.........................................</text>
+      <text x="20" y="142">...........::...::::.....::::::......::...........................................</text>
+      <text x="20" y="158">...::.......::..::::....:::::........::::.........................................</text>
+      <text x="20" y="174">......::.............::...::...::.............::::..............................</text>
+      <text x="20" y="190">...:.....::..::....::....::::......::::..::.....................................</text>
+      <text x="20" y="206">....:....::..::::....:....::.......:.....::.....................................</text>
+      <text x="20" y="222">....:::::...::.........:::::...:::....::.........................................</text>
+      <text x="20" y="238">......::...::::::::......:::..::::::.....:.......................................</text>
+      <text x="20" y="254">...:..::::..::...::....::::::::......::....:....................................</text>
+      <text x="20" y="270">......:::.....:....:::....::....:::....:...::....................................</text>
+      <text x="20" y="286">....::....::....::::.....::::....:::....:....::..................................</text>
+      <text x="20" y="302">...:....:....:....::::::......::::..:.....:....:...............................</text>
+      <text x="20" y="318">....:..::...:::......:....::::......::::....:::...................................</text>
+      <text x="20" y="334">....::....:....:::...::::::.....::::......:....:::...............................</text>
+      <text x="20" y="350">...:...::.....::...::....:::::.....:::....::::::.................................</text>
+      <text x="20" y="366">....:....::....::::....:....:.....::::....:....::...............................</text>
+      <text x="20" y="382">...:....:...::.::::...:....::::....::::...::....:..............................</text>
+      <text x="20" y="398">....:......::...::...:::::.....::......::.....::..............................</text>
+      <text x="20" y="414">.............::...::.....::::...........::......:...............................</text>
+      <text x="20" y="430">....::......::....:::.....::.........:::...........:............................</text>
+      <text x="20" y="446">......::..:.:.....::.......:::......:....::.................::::.............</text>
+      <text x="20" y="462">....::.::....::....:.....:.....:::::....::....::::...:......:...................</text>
+      <text x="20" y="478">....::::...::......::::...:::::....::::::...::....::.....:......................</text>
+      <text x="20" y="494">....:....:::.......::.....:::::...:::::...:::....:::::.........................</text>
+      <text x="20" y="510">.....:::::::.....::::...:::::::....::::.:....::....:::::.......................</text>
+      <text x="20" y="526">......::.....::......::....:::::....:::::....:::....::::........................</text>
+      <text x="20" y="542">.....:.........:::....::::.....:::::.....::::...:::....:........................</text>
+      <text x="20" y="558">.......:........:...::.......:::..::....::...::::...::........................</text>
+      <text x="20" y="574">...::::...........:.....::::...:....::....::::......::::........................</text>
+      <text x="20" y="590">..............::.....:::....:::...::...::::.........::..........................</text>
+      <text x="20" y="606">.............::..:....:........::..:::...::....::.................::::::::.......</text>
+      <text x="20" y="622">....:....:....:.....::......::::.....:::::..:.....:......:::..................</text>
+      <text x="20" y="638">.................:....::::...::.....::::::...::::::::::::::::..................</text>
+      <text x="20" y="654">....................:....:::.......::.....::...:::::.....::.....................</text>
+      <text x="20" y="670">...............::::..............::::::......::::.............................</text>
+      <text x="20" y="686">.....................::::::......::............::::............................</text>
+      <text x="20" y="702">.........................................:....:................................</text>
+    </g>
+
+    <g font-family="Consolas, 'Courier New', monospace" font-size="5.7" fill="#eff5ff">
+      <text x="50" y="125">..................111111111111111111111111111111111111111111111111111111111111111..................</text>
+      <text x="40" y="140">................111111111111111111111111111111111111111111111111111111111111111111................</text>
+      <text x="34" y="155">..............111111111111111111111111111111111111111111111111111111111111111111111..............</text>
+      <text x="30" y="170">.............1111111111111111111111111111111111111111111111111111111111111111111111.............</text>
+      <text x="27" y="185">.............1111111111111111111111111111111111111111111111111111111111111111111111.............</text>
+      <text x="24" y="200">..............111111111111111111111111111111111111111111111111111111111111111111111..............</text>
+      <text x="22" y="215">...............11111111111111111111111111111111111111111111111111111111111111111111.............</text>
+      <text x="20" y="230">...............11111111111111111111111111111111111111111111111111111111111111111111.............</text>
+      <text x="18" y="245">................111111111111111111111111111111111111111111111111111111111111111111...............</text>
+      <text x="18" y="260">..................1111111111111111111111111111111111111111111111111111111111111111..............</text>
+      <text x="20" y="275">....................111111111111111111111111111111111111111111111111111111111111................</text>
+      <text x="22" y="290">........................11111111111111111111111111111111111111111111111111111111..................</text>
+      <text x="26" y="305">..........................111111111111111111111111111111111111111111111111111....................</text>
+      <text x="30" y="320">.............................111111111111111111111111111111111111111111111111.....................</text>
+      <text x="35" y="335">..............................111111111111111111111111111111111111111111111......................</text>
+      <text x="40" y="350">...............................111111111111111111111111111111111111111111.......................</text>
+      <text x="45" y="365">.................................1111111111111111111111111111111111111111.........................</text>
+      <text x="50" y="380">.................................1111111111111111111111111111111111111111..........................</text>
+      <text x="56" y="395">...............................1111111111111111111111111111111111111111...........................</text>
+      <text x="62" y="410">............................111111111111111111111111111111111111111111............................</text>
+      <text x="70" y="425">............................1111111111111111111111111111111111111111............................</text>
+      <text x="77" y="440">.............................111111111111111111111111111111111111111............................</text>
+      <text x="86" y="455">.............................11111111111111111111111111111111111111............................</text>
+      <text x="94" y="470">..............................1111111111111111111111111111111111111..............................</text>
+      <text x="102" y="485">.............................111111111111111111111111111111111111.............................</text>
+      <text x="110" y="500">............................111111111111111111111111111111111111..............................</text>
+      <text x="118" y="515">............................11111111111111111111111111111111111..............................</text>
+      <text x="128" y="530">............................111111111111111111111111111111111.................................</text>
+      <text x="138" y="545">.............................11111111111111111111111111111111...................................</text>
+      <text x="148" y="560">..............................1111111111111111111111111111....................................</text>
+      <text x="160" y="575">...............................111111111111111111111111......................................</text>
+      <text x="172" y="590">................................1111111111111111111.....................................</text>
+      <text x="184" y="605">..................................111111111111.................................</text>
+      <text x="196" y="620">......................................1111111....................................</text>
+    </g>
+  </g>
+
+  <g transform="translate(655,80)" filter="url(#softGlow)">
+    <path d="M0 20H470" stroke="#2c3d50" stroke-width="2"/>
+    <text x="0" y="62" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" fill="url(#lcd)" letter-spacing="1.3">JSREENAMDARSHAN@github</text>
+    <path d="M0 96H640" stroke="#2c3d50" stroke-width="2"/>
+
+    <g font-family="Consolas, 'Courier New', monospace" fill="#f3f8ff" font-size="24" font-weight="500">
+      <text x="0" y="170">• Role:</text>
+      <text x="430" y="170" fill="#dfeaf8">Backend Software Engineer</text>
+
+      <text x="0" y="225">• Experience:</text>
+      <text x="430" y="225" fill="#dfeaf8">1.8+ Years Professional</text>
+
+      <text x="0" y="280">• Company:</text>
+      <text x="430" y="280" fill="#dfeaf8">Cognizant (Chennai)</text>
+    </g>
+
+    <g transform="translate(0,330)" font-family="Consolas, 'Courier New', monospace">
+      <text x="0" y="0" fill="#a9b8c8" font-size="24" font-weight="700">— Tech Stack &amp; Focus</text>
+
+      <g font-size="23" fill="#f4f8ff" font-weight="500">
+        <text x="0" y="50">• Languages:</text>
+        <text x="430" y="50" fill="#dfeaf8">Java 17, Python, SQL</text>
+
+        <text x="0" y="100">• Backend:</text>
+        <text x="430" y="100" fill="#dfeaf8">Spring Boot 3, REST APIs</text>
+
+        <text x="0" y="150">• Data &amp; Caching:</text>
+        <text x="430" y="150" fill="#dfeaf8">PostgreSQL, Redis, Couchbase</text>
+
+        <text x="0" y="200">• Cloud &amp; DevOps:</text>
+        <text x="430" y="200" fill="#dfeaf8">AWS (EC2, S3), Docker, CI/CD</text>
+      </g>
+    </g>
+
+    <g transform="translate(0,560)" font-family="Consolas, 'Courier New', monospace">
+      <text x="0" y="0" fill="#a9b8c8" font-size="22" font-weight="700">— Key Engineering Highlight</text>
+
+      <g font-size="21" fill="#f3f7ff" font-weight="500">
+        <text x="0" y="45" fill="#35d58e">✓</text>
+        <text x="28" y="45">Optimized DB latency by 30% via query indexing &amp; Redis caching</text>
+
+        <text x="0" y="88" fill="#35d58e">✓</text>
+        <text x="28" y="88">Built high-throughput microservices &amp; GenAI automation tools</text>
+      </g>
+    </g>
+  </g>
 </svg>
