@@ -44,13 +44,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JSREENAMDARSHAN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSREENAMDARSHAN&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-</p>
-
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java 17, Python, SQL |
+| **Backend** | Spring Boot 3, REST APIs, Microservices |
+| **Databases & Caching** | PostgreSQL, Redis, Couchbase |
+| **Cloud & DevOps** | AWS (EC2, S3), Docker, CI/CD |
 ---
 
 ## 📫 Connect with Me
