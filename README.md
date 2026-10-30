@@ -252,3 +252,8 @@ applications, cloud infrastructure and production-grade software.
 <p align="left">
 ⭐ Feel free to explore my repositories and connect with me!
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="JSREENAMDARSHAN's GitHub profile" src="dark_mode.svg" />
+</picture>
